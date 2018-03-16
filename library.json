@@ -1,0 +1,20 @@
+{
+    "name": "RAMiniVector",
+    "frameworks": "Arduino",
+    "keywords": "vector",
+    "description": "A small subset of vector for the Arduino",
+    "version": "1.0.0",
+    "url": "https://github.com/hippymulehead/RAMiniVector",
+    "authors":
+    [
+        {
+            "name": "Michael Romans",
+            "maintainer": true
+        }
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hippymulehead/RAMiniVector.git"
+    }
+}
