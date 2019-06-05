@@ -2,8 +2,8 @@
     "name": "RAMiniVector",
     "frameworks": "Arduino",
     "keywords": "vector",
-    "description": "A small subset of vector for the Arduino",
-    "version": "1.0.0",
+    "description": "A small subset of vector for the Arduino. v2 adds more functions and fixes the memory leak",
+    "version": "2.0.0",
     "url": "https://github.com/hippymulehead/RAMiniVector",
     "authors":
     [
